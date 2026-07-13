@@ -1,163 +1,162 @@
 <h1 align="center">Hi 👋, I'm Awais Tariq</h1>
-<h3 align="center">Frontend Developer | React • Next.js • Redux Toolkit • Tailwind CSS</h3>
+
+<h3 align="center">
+Frontend Developer • React • Next.js • Redux Toolkit • Tailwind CSS
+</h3>
 
 <p align="center">
-  Passionate about building responsive, scalable, and user-friendly web applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Future+Full+Stack+MERN+Developer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=awazii&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Frontend Developer specializing in **React** and **Next.js**
-- 🎨 Passionate about crafting modern, responsive UI/UX
-- ⚡ Experienced with **Redux Toolkit**, **React Router**, and state management
-- 🌱 Currently learning **Node.js**, **Express.js**, **MongoDB**, and backend development
-- 🎯 Working toward becoming a **Full Stack MERN Developer**
-- 📚 Software Engineering student at **Virtual University of Pakistan**
-- 🚀 Open to Frontend Developer and React Developer opportunities
+✨ Passionate about crafting modern web experiences.
 
----
-
-## 🎓 Education
-
-**Bachelor of Software Engineering (BSSE)**  
-**Virtual University of Pakistan**
-
-📍 Pakistan  
-🗓️ Currently in 7th Semester
-
-Focused on:
-
-- Software Engineering
-- Web Development
-- Database Systems
-- Data Structures & Algorithms
-- Software Design
+- 💻 Frontend Developer specializing in **React** & **Next.js**
+- ⚡ Love building performant and scalable UI
+- 🎯 Currently learning **Node.js**, **Express.js** & **MongoDB**
+- 📚 Software Engineering Student at **Virtual University of Pakistan**
+- 🌱 Goal: Become a Full Stack MERN Engineer
+- 💼 Open to Frontend & React opportunities
 
 ---
 
-## 💼 Projects
+# 💼 Featured Projects
 
-### 💸 Splitly
+## 💸 Splitly
 
-A modern expense splitting application built with React and Redux Toolkit.
+Modern expense splitting application.
 
-**Features**
+✨ Features
 
 - Friend Management
 - Group Expenses
-- Expense Analytics
-- Smart Settlement Logic
-- Interactive Dashboard
+- Settlement Engine
+- Analytics Dashboard
+- Beautiful Responsive UI
 
-**Tech**
+**Stack**
 
 React • Redux Toolkit • Tailwind CSS • React Router • Recharts
 
 ---
 
-### 🎵 Pulse
+## 🎵 Pulse
 
-A desktop-inspired Spotify clone built using Vanilla JavaScript.
+Spotify-inspired Desktop Music Player.
 
-**Features**
+✨ Features
 
-- Music Queue
+- Queue
 - Shuffle
 - Repeat
 - Recently Played
-- Most Played
 - Daily Mix
+- Most Played
 - Custom Audio Engine
 
-**Tech**
+**Stack**
 
 HTML • CSS • JavaScript
 
 ---
 
-### 🛒 Amazon Clone
+## 🛒 Amazon Clone
 
-Responsive e-commerce frontend inspired by Amazon.
+Responsive Amazon-inspired shopping experience.
 
-**Tech**
+**Stack**
 
 HTML • CSS • JavaScript
 
 ---
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 
-Personal portfolio showcasing my projects, skills, and experience.
+Personal portfolio built using modern technologies.
 
-**Built with**
+**Stack**
 
 Next.js • Tailwind CSS • Framer Motion
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-- JavaScript
-- TypeScript
-- C++
-- HTML5
-- CSS3
-
-### Frontend
-
-- React
-- Next.js
-- Redux Toolkit
-- React Router
-- Tailwind CSS
-- Bootstrap
-
-### Backend (Learning)
-
-- Node.js
-- Express.js
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- Vercel
-- Netlify
-- VS Code
-
----
-
-## 📈 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=awazii&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awazii&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awazii&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,figma,npm,vercel,netlify" />
 
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Analytics
 
-🌍 Portfolio: https://awazii.vercel.app/
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/awais-tariq-75636a253/
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=awazii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-📧 Email: awaistariq975@gmail.com
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awazii&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awazii&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=awazii&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awazii&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://awazii.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/awais-tariq-75636a253/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:awaistariq975@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+</p>
