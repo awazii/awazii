@@ -89,37 +89,27 @@ Next.js • Tailwind CSS • Framer Motion
 
 # 🛠 Tech Stack
 
+### 💻 Frontend
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,figma,npm,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite"/>
 
 </p>
 
----
-
-# 📊 GitHub Analytics
+### 🧠 Currently Learning Backend
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=awazii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=awazii&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awazii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+### 🛠 Tools & Platforms
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=awazii&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vercel,netlify"/>
 
 </p>
 
